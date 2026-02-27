@@ -1,0 +1,16 @@
+cliente_id,nome,idade,renda,estado,renda_anual,categoria_renda
+1,João,35.0,5000.0,SP,60000.0,Média
+2,Maria,33.69230769230769,8000.0,RJ,96000.0,Média
+3,Pedro,22.0,0.0,SP,0.0,Baixa
+4,Ana,45.0,12000.0,Desconhecido,144000.0,Alta
+5,Carlos,29.0,4000.0,MG,48000.0,Baixa
+6,Lucas,31.0,6500.0,RS,78000.0,Média
+7,Beatriz,27.0,0.0,SP,0.0,Baixa
+8,Fernando,52.0,15000.0,RJ,180000.0,Alta
+9,Juliana,33.69230769230769,7200.0,MG,86400.0,Média
+10,Rafael,24.0,3000.0,Desconhecido,36000.0,Baixa
+11,Patricia,41.0,9800.0,SP,117600.0,Média
+12,Marcos,36.0,5600.0,PR,67200.0,Média
+13,Aline,28.0,0.0,SC,0.0,Baixa
+14,Diego,47.0,11000.0,RS,132000.0,Alta
+15,Sofia,21.0,2500.0,SP,30000.0,Baixa

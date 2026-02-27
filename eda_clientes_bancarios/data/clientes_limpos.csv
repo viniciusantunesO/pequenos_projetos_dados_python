@@ -1,0 +1,5 @@
+cliente_id,nome,idade,renda,estado,score_credito,renda_anual,categoria_renda
+1,Vini,20,20000.0,PR,700,240000.0,Alta
+2,Milena,20,15000.0,SP,680,180000.0,Alta
+3,Guilherme,19,0.0,MG,720,0.0,Baixa
+4,Arthur,22,12000.0,Desconhecido,800,144000.0,Alta

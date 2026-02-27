@@ -1,0 +1,16 @@
+cliente_id,nome,idade,renda,estado
+1,João,35,5000,SP
+2,Maria,,8000,RJ
+3,Pedro,22,,SP
+4,Ana,45,12000,
+5,Carlos,29,4000,MG
+6,Lucas,31,6500,RS
+7,Beatriz,27,,SP
+8,Fernando,52,15000,RJ
+9,Juliana,,7200,MG
+10,Rafael,24,3000,
+11,Patricia,41,9800,SP
+12,Marcos,36,5600,PR
+13,Aline,28,,SC
+14,Diego,47,11000,RS
+15,Sofia,21,2500,SP
